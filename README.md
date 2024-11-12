@@ -14,7 +14,8 @@ This project involves designing a high-performance Phase Locked Loop (PLL) for S
   - [Overview of PLL](#overview-of-pll)
   - [Applications in SerDes](#applications-in-serdes)
   - [System Flow](#system-flow)
-- [Design Components](#design-components)
+- [Methodology](#methodology)
+- [Building Blocks](#building-blocks)
   - [Phase Frequency Detector (PFD)](#phase-frequency-detector-pfd)
   - [Charge Pump](#charge-pump)
   - [Voltage Controlled Oscillator (VCO)](#voltage-controlled-oscillator-vco)
@@ -69,6 +70,19 @@ PLLs are critical in Serializer/Deserializer systems for generating stable clock
 
 ### System Flow
 ![SystemFlow](https://github.com/user-attachments/assets/0da5c7eb-6f18-4a00-b251-571cb6eb7a70)
+
+## Methodology 
+
+The methodology section outlines the step-by-step approach taken to design and implement the PLL for clock generation in SerDes applications. The project follows a structured process to ensure accurate design and simulation of each component.
+
+1. **Component Analysis**: Each core component of the PLL (Phase Frequency Detector, Charge Pump, Voltage Controlled Oscillator, and Frequency Divider) was studied individually to understand its functionality and requirements.
+2. **Design Specification**: Specifications, such as the desired output frequency, supply voltage, and process technology, were defined based on the project objectives.
+3. **Schematic Design**: Each component was designed in Cadence Virtuoso, following industry best practices for CMOS-based circuit design.
+4. **Simulation and Optimization**: Each component underwent simulations to verify its performance. Parameters were adjusted as needed to optimize for stability, low jitter, and high-frequency operation.
+5. **Integration and System Simulation**: After verifying each component, they were integrated into a complete PLL system. The entire system was then simulated to ensure correct phase and frequency alignment.
+6. **Result Analysis**: Transient responses were analyzed to validate that the PLL meets the desired specifications.
+
+This methodology ensured a systematic and thorough design process, resulting in a reliable and high-performance PLL suitable for high-speed SerDes applications.
 
 ## Building Blocks 
 
