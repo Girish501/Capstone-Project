@@ -13,6 +13,7 @@ This project involves designing a high-performance Phase Locked Loop (PLL) for S
 - [Theory and Background](#theory-and-background)
   - [Overview of PLL](#overview-of-pll)
   - [Applications in SerDes](#applications-in-serdes)
+  - [System Flow](#system-flow)
 - [Design Components](#design-components)
   - [Phase Frequency Detector (PFD)](#phase-frequency-detector-pfd)
   - [Charge Pump](#charge-pump)
@@ -63,6 +64,9 @@ A Phase Locked Loop (PLL) is a negative feedback control system that generates a
 
 ### Applications in SerDes
 PLLs are critical in Serializer/Deserializer systems for generating stable clock signals, ensuring data integrity over high-speed communication channels. With skyrocketing data-rate interfaces, the need for clock frequencies in the multi-GHz range is paramount and requires the use of Phase-Locked Loops (PLLs). They are capable of generating high-frequency.
+
+### System Flow
+![System Flow](C:\Users\HP\Pictures\Screenshots)
 
 ## Building Blocks 
 
