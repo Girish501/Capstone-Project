@@ -106,19 +106,21 @@ Summarizes the performance and success of the PLL design, noting key achievement
 - **Optimization**: Further tuning for different process technologies and broader frequency ranges.
 
 ## References
-List of references and academic papers cited in the project.
-[1] P. D. D. K. O. A. a. K. S. R. K. P. P. Sreehari, "Power optimized PLL implementation in 180nm CMOS technology," 18th International Symposium on VLSI Design and Test, pp. 1-2, 2014.
-[2] A. L. S. Loke, "A Versatile 90-nm CMOS Charge-Pump PLL for SerDes Transmitter Clocking," IEEE Journal of Solid-State Circuits , vol. vol. 41, no. 8, pp. 1894-1907, August 2006.
-[3] H. K. S. G. K. M. P. a. P. S. R. Ahirwar, "Design High Frequency Phase Locked Loop Using Single Ended VCO for High Speed Applications," 2022 IEEE Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI), pp. 1-6, 2022.
-[4] R. E. Best, Phase-Locked Loops: Design, Simulation, and Applications, 6th ed., New York, 2007.
-[5] R. J. Baker, CMOS Circuit Design, Layout, and Simulation, 3rd ed., Wiley-IEEE Press, 2010, p. 1208.
-[6] J. M. Rabaey, Digital integrated circuits: a design perspective, Prentice-Hall, Inc., 1996, p. 702
-[7] Razavi, B. (1996), "Design of High-Speed, Low-Jitter Phase-Locked Loops for High-Frequency Applications".
-[8] Dongil Lee, Taeho Lee, Young-Ju Kim, and Lee-Sup Kim, “A 21%-Jitter-Improved Self-Aligned Dividerless Injection-Locked PLL With a VCO Control Voltage Ripple-Compensated Phase Detector”, IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS—II: EXPRESS BRIEFS, VOL. 63, NO. 8, AUGUST 2016.
-[9] IEEE Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems, IEEE Standard 1588, 2019.
-[10] IEEE Standard for Ethernet, IEEE Standard 802.3 ,1983
-[11] IEEE Standard for Verilog Hardware Description Language, IEEE Standard 1364,1995
-[12] IEEE Standards for Device Modeling, IEEE Standard 2700 Series ,2017
-[13] IEEE Standard for Standard Delay Format (SDF) Language Reference Manual, IEEE Standard 1497
+List of references and academic papers cited in the project:
+
+1. P. D. D. K. O. A. a. K. S. R. K. P. P. Sreehari, "Power optimized PLL implementation in 180nm CMOS technology," 18th International Symposium on VLSI Design and Test, pp. 1-2, 2014.
+2. A. L. S. Loke, "A Versatile 90-nm CMOS Charge-Pump PLL for SerDes Transmitter Clocking," IEEE Journal of Solid-State Circuits, vol. 41, no. 8, pp. 1894-1907, August 2006.
+3. H. K. S. G. K. M. P. a. P. S. R. Ahiwar, "Design High Frequency Phase Locked Loop Using Single Ended VCO for High Speed Applications," 2022 IEEE Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI), pp. 1-6, 2022.
+4. R. E. Best, *Phase-Locked Loops: Design, Simulation, and Applications*, 6th ed., New York, 2007.
+5. R. J. Baker, *CMOS Circuit Design, Layout, and Simulation*, 3rd ed., Wiley-IEEE Press, 2010, p. 1208.
+6. J. M. Rabaey, *Digital Integrated Circuits: A Design Perspective*, Prentice-Hall, Inc., 1996, p. 702.
+7. Razavi, B. (1996), "Design of High-Speed, Low-Jitter Phase-Locked Loops for High-Frequency Applications."
+8. Dongil Lee, Taeho Lee, Young-Ju Kim, and Lee-Sup Kim, "A 21%-Jitter-Improved Self-Aligned Dividerless Injection-Locked PLL With a VCO Control Voltage Ripple-Compensated Phase Detector," *IEEE Transactions on Circuits and Systems II: Express Briefs*, Vol. 63, No. 8, August 2016.
+9. IEEE Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems, IEEE Standard 802.3, 1983.
+10. IEEE Standard for Verilog Hardware Description Language, IEEE Standard 1364, 1995.
+11. IEEE Standards for Device Modeling, IEEE Standard 2700 Series, 2017.
+12. IEEE Standard for Standard Delay Format (SDF) Language Reference Manual, IEEE Standard 1497.
+13. IEEE Standard 1588, IEEE Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems, 2019.
+
 
 
