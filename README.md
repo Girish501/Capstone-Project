@@ -135,6 +135,9 @@ The frequency divider reduces the output frequency to maintain synchronization w
     <img src="https://github.com/user-attachments/assets/495f7462-5668-48bd-86a0-f0521a68f5b8" alt="Transient Response Schematic">
 </div>
 
+The VCO consists of 4 NOT gates in which 3 are inside a loop making it a 3-stage VCO. 
+Time of one cycle= 71.195328ns-71.419819ns = 0.224491ns. Giving a frequency of 1/t= 4.4545GHz.
+
 ## Conclusion
 Summarizes the performance and success of the PLL design, noting key achievements in frequency stability, low jitter, and fast locking time.
 
