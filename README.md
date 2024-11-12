@@ -73,7 +73,9 @@ PLLs are critical in Serializer/Deserializer systems for generating stable clock
 
 ### Phase Frequency Detector (PFD)
 One of main blocks of PLL circuit is “Phase Frequency Detector ( P F D )”, which is the initial block of PLL circuit. It has two input ports one having input or reference signal whose phase and frequency to be locked is fed to PFD.
-
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/a53fa9f8-44c7-4e34-94c6-ffdafec2db89" alt="Phase Frequency Detector Schematic">
+</div>
 ![Screenshot 2024-06-05 234843](https://github.com/user-attachments/assets/a53fa9f8-44c7-4e34-94c6-ffdafec2db89)
 
 ### Charge Pump
