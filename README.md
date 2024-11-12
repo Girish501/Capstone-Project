@@ -29,6 +29,7 @@ This project involves designing a high-performance Phase Locked Loop (PLL) for S
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
 - [References](#references)
+- [Team Members and Mentors](#team-members-and-mentors)
 
 ## Introduction
 This section provides an overview of the PLL design project, its objectives, and its application in SerDes systems.
@@ -104,24 +105,35 @@ The frequency divider reduces the output frequency to maintain synchronization w
 
 ### Phase Frequency Detector Schematic
 
-![Screenshot 2024-06-05 234024](https://github.com/user-attachments/assets/22b3a6a0-3621-41f6-a365-7781c5c452bc)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/22b3a6a0-3621-41f6-a365-7781c5c452bc" alt="Phase Frequency Detector Schematic">
+</div>
 
 ### Charge Pump Schematic
 
-![Screenshot 2024-06-05 235326](https://github.com/user-attachments/assets/44f32c7d-c166-4544-a7e3-af84f857dcee)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/44f32c7d-c166-4544-a7e3-af84f857dcee" alt="Charge Pump Schematic">
+</div>
 
 ### VCO Schematic
 
-![Screenshot 2024-11-06 170854](https://github.com/user-attachments/assets/9531007a-a4e5-4ca2-b164-65e4596979cc)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/9531007a-a4e5-4ca2-b164-65e4596979cc" alt="VCO Schematic">
+</div>
 
 ### Complete PLL Schematic
 
-![Screenshot 2024-11-10 163130](https://github.com/user-attachments/assets/ae68de16-2d67-46e3-a6fa-6018936d545a)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/ae68de16-2d67-46e3-a6fa-6018936d545a" alt="Complete PLL Schematic">
+</div>
 
 ## Simulation Results
 
 ### Transient Response
-![Transient Response](path/to/your/transient_response.png)
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/495f7462-5668-48bd-86a0-f0521a68f5b8" alt="Transient Response Schematic">
+</div>
 
 ## Conclusion
 Summarizes the performance and success of the PLL design, noting key achievements in frequency stability, low jitter, and fast locking time.
@@ -147,5 +159,8 @@ List of references and academic papers cited in the project:
 12. IEEE Standard for Standard Delay Format (SDF) Language Reference Manual, IEEE Standard 1497.
 13. IEEE Standard 1588, IEEE Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems, 2019.
 
+## Team Members and Mentors
 
+- **Team Members**: Girish Arora, Madhav Anand, Aayush Raj, Niyati Bhateja
+- **Mentors**: Dr. Anil Singh, Dr. Alpana Agarwal
 
