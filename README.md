@@ -1,4 +1,3 @@
-# Capstone-Project
 # Phase Locked Loop (PLL) for Clock Generation in SerDes
 
 ## Overview
